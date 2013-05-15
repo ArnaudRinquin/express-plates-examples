@@ -1,12 +1,13 @@
 {
-    "name":"express-plates-examples",
-    "description": "Examples for Plates template engine adapter for Express",
-    "version":"0.1.0",
-    "author":"Arnaud Rinquin <rinquin.arnaud@gmail.com>",
-    "main":"./simple.js",
-    "repository": "git://github.com/ArnaudRinquin/express-plates.git",
-    "dependencies": {
-        "express-plates":"~0.1.4",
-        "express":"~3.0.0"
-    }
+  "name": "express-plates-examples",
+  "description": "Examples for Plates template engine adapter for Express",
+  "version": "0.1.0",
+  "author": "Arnaud Rinquin <rinquin.arnaud@gmail.com>",
+  "main": "./simple.js",
+  "repository": "git://github.com/ArnaudRinquin/express-plates.git",
+  "dependencies": {
+    "express-plates": "~0.1.4",
+    "express": "~3.0.0",
+    "plates": "~0.4.8"
+  }
 }
